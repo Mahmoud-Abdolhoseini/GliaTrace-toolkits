@@ -1,12 +1,12 @@
 # GliaTrace-toolkits
 Here is the source code of GliaTrace, a tool for 3D segmentation and reconstruction of cells written in MATLAB.
 
-Please reference the papers below if you use the code for cell reconstruction: 
+Please cite our papers below if you use the code for the cell reconstruction: 
 
 - 'Automated training of microglia using multilevel thresholding and minimum spanning trees', IEEE EMBC, https://ieeexplore.ieee.org/document/7590922
 - 'Segmentation, Tracing, and Quantification of Microglial Cells from 3D Image Stacks', by Mahmoud Abdolhoseini, et al. Scientific Reports.
 
-Please reference the paper below if you use the code for cell segmentation: 
+Please cite our paper below if you use the code for the cell segmentation: 
 - 'Segmentation of Heavily Clustered Nuclei from Histopathological Images', by Mahmoud Abdolhoseini, et al. Scientific Reports.
 https://www.nature.com/articles/s41598-019-38813-2
 
