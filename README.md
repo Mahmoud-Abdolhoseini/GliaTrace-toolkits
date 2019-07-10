@@ -4,7 +4,7 @@ Here is the source code of GliaTrace, a tool for 3D segmentation and reconstruct
 Please cite our papers below if you use the code for the cell reconstruction: 
 
 - 'Automated training of microglia using multilevel thresholding and minimum spanning trees', by Mahmoud Abdolhoseini, et al., IEEE EMBC. https://ieeexplore.ieee.org/document/7590922
-- 'Segmentation, Tracing, and Quantification of Microglial Cells from 3D Image Stacks', by Mahmoud Abdolhoseini, et al. Scientific Reports.
+- 'Segmentation, Tracing, and Quantification of Microglial Cells from 3D Image Stacks', by Mahmoud Abdolhoseini, et al. Scientific Reports. https://www.nature.com/articles/s41598-019-44917-6
 
 Please cite our paper below if you use the code for the cell segmentation: 
 - 'Segmentation of Heavily Clustered Nuclei from Histopathological Images', by Mahmoud Abdolhoseini, et al. Scientific Reports.
